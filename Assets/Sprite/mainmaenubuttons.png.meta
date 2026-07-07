@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: c0819480446b6154b822fa90f5a7e089
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2582921022908707003
+    second: mainmaenubuttons_0
+  - first:
+      213: 5485758969883471461
+    second: mainmaenubuttons_1
+  - first:
+      213: -3722172312633055668
+    second: mainmaenubuttons_2
+  - first:
+      213: -8900796690218451338
+    second: mainmaenubuttons_3
+  - first:
+      213: -9071704704200454355
+    second: mainmaenubuttons_4
+  - first:
+      213: 262330990242661875
+    second: mainmaenubuttons_5
+  - first:
+      213: -3447140839833822148
+    second: mainmaenubuttons_6
+  - first:
+      213: 7879292008569874759
+    second: mainmaenubuttons_7
+  - first:
+      213: 2707531593543676285
+    second: mainmaenubuttons_8
+  - first:
+      213: -3280896031341722661
+    second: mainmaenubuttons_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mainmaenubuttons_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1150
+        width: 996
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f43aab30f972cd0800000000000000
+      internalID: -2582921022908707003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mainmaenubuttons_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 805
+        width: 1024
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4666b8a000385cc0800000000000000
+      internalID: -3722172312633055668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mainmaenubuttons_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 275
+        width: 1021
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f44eea2a4da1280800000000000000
+      internalID: -9071704704200454355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mainmaenubuttons_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 547
+        width: 1024
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749a164e55ed85d60800000000000000
+      internalID: 7879292008569874759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f0aec8f08e5fd2e43ba4447f240ec800
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mainmaenubuttons_0: -2582921022908707003
+      mainmaenubuttons_1: 5485758969883471461
+      mainmaenubuttons_2: -3722172312633055668
+      mainmaenubuttons_3: -8900796690218451338
+      mainmaenubuttons_4: -9071704704200454355
+      mainmaenubuttons_5: 262330990242661875
+      mainmaenubuttons_6: -3447140839833822148
+      mainmaenubuttons_7: 7879292008569874759
+      mainmaenubuttons_8: 2707531593543676285
+      mainmaenubuttons_9: -3280896031341722661
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

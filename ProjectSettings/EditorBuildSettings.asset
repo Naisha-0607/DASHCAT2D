@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main menu.unity
+    guid: aec102bca3ad2574bbe17d79d8106532
+  - enabled: 1
+    path: Assets/Scenes/levels_menu.unity
+    guid: 3c6b18f5537208844aef24e30e88310b
+  - enabled: 1
+    path: Assets/Scenes/level_1.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Level_2.unity
+    guid: 8807a133522a59940b238ed1020161ca
+  - enabled: 1
+    path: Assets/Scenes/level_3.unity
+    guid: a9bd5774616ab534badcff31b3c96443
+  - enabled: 1
+    path: Assets/Scenes/level_4.unity
+    guid: 79bea9de24f9b2345a6f86f05c3b98fd
+  - enabled: 1
+    path: Assets/Scenes/level_5.unity
+    guid: 4d2bd30a9c2ad07468be1bf8c95f6a64
+  - enabled: 1
+    path: Assets/Scenes/level_6.unity
+    guid: 36ee75d115fbc4046a9b9db6d5cb11ce
+  - enabled: 1
+    path: Assets/Scenes/level_7.unity
+    guid: 6d9771a0f3c141742b89d7427018a3c7
+  - enabled: 1
+    path: Assets/Scenes/level_8.unity
+    guid: f71d653cf4b83c2499a24bf7c690c067
+  - enabled: 1
+    path: Assets/Scenes/level_9.unity
+    guid: 932e4f588ef71a347b4b85c48c4e2ff2
+  - enabled: 1
+    path: Assets/Scenes/level_10.unity
+    guid: df7fd93dc14996e46b7df9fc4f738a27
+  - enabled: 1
+    path: Assets/Scenes/level_11.unity
+    guid: f25c830dd9c188d4291fbc1918c8395d
+  - enabled: 1
+    path: Assets/Scenes/level_12.unity
+    guid: 69574942c4159474fa488138765836d0
+  - enabled: 1
+    path: Assets/Scenes/level_13.unity
+    guid: 7eed25f42ed82b64c8042e0f284ae461
+  - enabled: 1
+    path: Assets/Scenes/level_14.unity
+    guid: 69e8e48bee8dc5b43b2e25131f1b752f
+  - enabled: 1
+    path: Assets/Scenes/level_15.unity
+    guid: 6b687d85b524ab949841d6f3684a19f1
+  - enabled: 1
+    path: Assets/Scenes/endingscene.unity
+    guid: f5f038f8abac3ba40a1a13daa66a6b56
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 343ae49af29c11e46b47272358717f04
+  - enabled: 1
+    path: Assets/Scenes/LevelComplete.unity
+    guid: 1e411cd24d1b6304f97d13a8610827eb
+  - enabled: 1
+    path: Assets/Scenes/YouLost.unity
+    guid: 8b25d9e7a603baf4683799bb773a50e8
+  - enabled: 1
+    path: Assets/Scenes/HowToPlay.unity
+    guid: dd9b71be0b3cb6a40ba4c10f4d7fe6fe
+  - enabled: 1
+    path: Assets/Scenes/OpeningScene.unity
+    guid: 3636248fdb2dbc54dbe95a477404d350
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}

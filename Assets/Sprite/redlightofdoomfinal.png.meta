@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 2e91be1b81c0c294890f2bbab5196766
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8190073137351326673
+    second: redlightofdoomfinal_0
+  - first:
+      213: 951136740081100327
+    second: redlightofdoomfinal_1
+  - first:
+      213: 1559210330716142684
+    second: redlightofdoomfinal_2
+  - first:
+      213: -4970138209025959575
+    second: redlightofdoomfinal_3
+  - first:
+      213: -3400718555617240693
+    second: redlightofdoomfinal_4
+  - first:
+      213: -8895918450085898781
+    second: redlightofdoomfinal_5
+  - first:
+      213: 1997476205352878235
+    second: redlightofdoomfinal_6
+  - first:
+      213: -530651057358705451
+    second: redlightofdoomfinal_7
+  - first:
+      213: 5328401831469323828
+    second: redlightofdoomfinal_8
+  - first:
+      213: 5899803596986272781
+    second: redlightofdoomfinal_9
+  - first:
+      213: 2154175535204505402
+    second: redlightofdoomfinal_10
+  - first:
+      213: -2695754322092628069
+    second: redlightofdoomfinal_11
+  - first:
+      213: -8846246365676321589
+    second: redlightofdoomfinal_12
+  - first:
+      213: -2556106634804450355
+    second: redlightofdoomfinal_13
+  - first:
+      213: 7240573195154843084
+    second: redlightofdoomfinal_14
+  - first:
+      213: -7187224422839948684
+    second: redlightofdoomfinal_15
+  - first:
+      213: 931971546608119389
+    second: redlightofdoomfinal_16
+  - first:
+      213: 1790598132452498831
+    second: redlightofdoomfinal_17
+  - first:
+      213: -4303549128142918199
+    second: redlightofdoomfinal_18
+  - first:
+      213: 3335015691261263475
+    second: redlightofdoomfinal_19
+  - first:
+      213: -8912734720487560914
+    second: redlightofdoomfinal_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: redlightofdoomfinal_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1536
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2484bbdfd3075e80800000000000000
+      internalID: -8190073137351326673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redlightofdoomfinal_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1012
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7266b5563dd133d00800000000000000
+      internalID: 951136740081100327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redlightofdoomfinal_2
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 389
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c7474e88d63a510800000000000000
+      internalID: 1559210330716142684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redlightofdoomfinal_3
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 71
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969596eb1a5860bb0800000000000000
+      internalID: -4970138209025959575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redlightofdoomfinal_4
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 54
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89da5fcd783ec0d0800000000000000
+      internalID: -3400718555617240693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redlightofdoomfinal_5
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 46
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e559cf5d495b8480800000000000000
+      internalID: -8895918450085898781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redlightofdoomfinal_6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 30
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b908a53960678bb10800000000000000
+      internalID: 1997476205352878235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redlightofdoomfinal_7
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 35
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dce272ccafb2a8f0800000000000000
+      internalID: -530651057358705451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redlightofdoomfinal_8
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 39
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43615411c3942f940800000000000000
+      internalID: 5328401831469323828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redlightofdoomfinal_9
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 30
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c40faec1050e150800000000000000
+      internalID: 5899803596986272781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redlightofdoomfinal_10
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 23
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3793b76c3b25ed10800000000000000
+      internalID: 2154175535204505402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redlightofdoomfinal_11
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 23
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97e1fd0ab1c69ad0800000000000000
+      internalID: -2695754322092628069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redlightofdoomfinal_12
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 26
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4c542ccc1db3580800000000000000
+      internalID: -8846246365676321589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redlightofdoomfinal_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 7
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb2678fe82e68cd0800000000000000
+      internalID: -2556106634804450355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redlightofdoomfinal_14
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 16
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc56b6375feab7460800000000000000
+      internalID: 7240573195154843084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redlightofdoomfinal_15
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 9
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47aec9b8779d14c90800000000000000
+      internalID: -7187224422839948684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redlightofdoomfinal_16
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 15
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e29501f270fec00800000000000000
+      internalID: 931971546608119389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redlightofdoomfinal_17
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 6
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d1f44b38b79d810800000000000000
+      internalID: 1790598132452498831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redlightofdoomfinal_18
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 10
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd699f7ed8b644c0800000000000000
+      internalID: -4303549128142918199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redlightofdoomfinal_19
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 0
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e3bfdf91b584e20800000000000000
+      internalID: 3335015691261263475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redlightofdoomfinal_20
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e296c005efa9f4480800000000000000
+      internalID: -8912734720487560914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      redlightofdoomfinal_0: -8190073137351326673
+      redlightofdoomfinal_1: 951136740081100327
+      redlightofdoomfinal_10: 2154175535204505402
+      redlightofdoomfinal_11: -2695754322092628069
+      redlightofdoomfinal_12: -8846246365676321589
+      redlightofdoomfinal_13: -2556106634804450355
+      redlightofdoomfinal_14: 7240573195154843084
+      redlightofdoomfinal_15: -7187224422839948684
+      redlightofdoomfinal_16: 931971546608119389
+      redlightofdoomfinal_17: 1790598132452498831
+      redlightofdoomfinal_18: -4303549128142918199
+      redlightofdoomfinal_19: 3335015691261263475
+      redlightofdoomfinal_2: 1559210330716142684
+      redlightofdoomfinal_20: -8912734720487560914
+      redlightofdoomfinal_3: -4970138209025959575
+      redlightofdoomfinal_4: -3400718555617240693
+      redlightofdoomfinal_5: -8895918450085898781
+      redlightofdoomfinal_6: 1997476205352878235
+      redlightofdoomfinal_7: -530651057358705451
+      redlightofdoomfinal_8: 5328401831469323828
+      redlightofdoomfinal_9: 5899803596986272781
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

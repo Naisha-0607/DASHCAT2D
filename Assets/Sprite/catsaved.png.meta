@@ -1,0 +1,413 @@
+fileFormatVersion: 2
+guid: 02c036d475789474dadb7599516883f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6485960748604933072
+    second: catsaved_0
+  - first:
+      213: -6934890418534149245
+    second: catsaved_1
+  - first:
+      213: 780527179687557697
+    second: catsaved_2
+  - first:
+      213: 8780564481649255387
+    second: catsaved_3
+  - first:
+      213: 7192524514268407471
+    second: catsaved_4
+  - first:
+      213: 5238502894024706451
+    second: catsaved_5
+  - first:
+      213: 7883728992093239674
+    second: catsaved_6
+  - first:
+      213: 8019320327122955962
+    second: catsaved_7
+  - first:
+      213: 6766026866860838773
+    second: catsaved_8
+  - first:
+      213: -3035686526006453825
+    second: catsaved_9
+  - first:
+      213: 2972168827384365329
+    second: catsaved_10
+  - first:
+      213: -1109668169811595138
+    second: catsaved_11
+  - first:
+      213: -8591294602538671020
+    second: catsaved_12
+  - first:
+      213: 8865344033869120079
+    second: catsaved_13
+  - first:
+      213: 834011230156130186
+    second: catsaved_14
+  - first:
+      213: 9215892552744876922
+    second: catsaved_15
+  - first:
+      213: 6129810804467684189
+    second: catsaved_16
+  - first:
+      213: -3669254236477186306
+    second: catsaved_17
+  - first:
+      213: 4950578349728876035
+    second: catsaved_18
+  - first:
+      213: -7581679983587673824
+    second: catsaved_19
+  - first:
+      213: -8715853976152884201
+    second: catsaved_20
+  - first:
+      213: 4695422462123945676
+    second: catsaved_21
+  - first:
+      213: -2975861448060264157
+    second: catsaved_22
+  - first:
+      213: 4249218070377809739
+    second: catsaved_23
+  - first:
+      213: 7935320354786202251
+    second: catsaved_24
+  - first:
+      213: -2716283355998639227
+    second: catsaved_25
+  - first:
+      213: 7303451424148184298
+    second: catsaved_26
+  - first:
+      213: -4044996430263101750
+    second: catsaved_27
+  - first:
+      213: 1811048052595022819
+    second: catsaved_28
+  - first:
+      213: -2766183204366767569
+    second: catsaved_29
+  - first:
+      213: -4111294554083988795
+    second: catsaved_30
+  - first:
+      213: -590246089399822772
+    second: catsaved_31
+  - first:
+      213: 8537460081670348513
+    second: catsaved_32
+  - first:
+      213: 4761241725058442909
+    second: catsaved_33
+  - first:
+      213: 5985470699821542846
+    second: catsaved_34
+  - first:
+      213: -3997824086958829494
+    second: catsaved_35
+  - first:
+      213: -3574209671824870682
+    second: catsaved_36
+  - first:
+      213: 9129114546119869659
+    second: catsaved_37
+  - first:
+      213: 7738693407214137762
+    second: catsaved_38
+  - first:
+      213: 6767476995140512312
+    second: catsaved_39
+  - first:
+      213: 7122694156329487250
+    second: catsaved_40
+  - first:
+      213: 5314322387438882800
+    second: catsaved_41
+  - first:
+      213: -6861604834026273006
+    second: catsaved_42
+  - first:
+      213: -1328746477278737965
+    second: catsaved_43
+  - first:
+      213: -8203903398724432136
+    second: catsaved_44
+  - first:
+      213: -9185806451165409180
+    second: catsaved_45
+  - first:
+      213: 7936380002768104593
+    second: catsaved_46
+  - first:
+      213: -7628513547742948852
+    second: catsaved_47
+  - first:
+      213: -6264661925508417315
+    second: catsaved_48
+  - first:
+      213: 4808269346942491245
+    second: catsaved_49
+  - first:
+      213: 2294002382359531531
+    second: catsaved_50
+  - first:
+      213: -9138125173711270107
+    second: catsaved_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: catsaved_0
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 640
+        width: 1377
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d349bfcfe2c20a50800000000000000
+      internalID: 6485960748604933072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catsaved_1
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 929
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383130f28e152cf90800000000000000
+      internalID: -6934890418534149245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catsaved_7
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 418
+        width: 1156
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abeab3e69595a4f60800000000000000
+      internalID: 8019320327122955962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catsaved_30
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 167
+        width: 1132
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca63d8b26fb1f6c0800000000000000
+      internalID: -4111294554083988795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2aedae4efcc905145a93ae2144aea12c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      catsaved_0: 6485960748604933072
+      catsaved_1: -6934890418534149245
+      catsaved_10: 2972168827384365329
+      catsaved_11: -1109668169811595138
+      catsaved_12: -8591294602538671020
+      catsaved_13: 8865344033869120079
+      catsaved_14: 834011230156130186
+      catsaved_15: 9215892552744876922
+      catsaved_16: 6129810804467684189
+      catsaved_17: -3669254236477186306
+      catsaved_18: 4950578349728876035
+      catsaved_19: -7581679983587673824
+      catsaved_2: 780527179687557697
+      catsaved_20: -8715853976152884201
+      catsaved_21: 4695422462123945676
+      catsaved_22: -2975861448060264157
+      catsaved_23: 4249218070377809739
+      catsaved_24: 7935320354786202251
+      catsaved_25: -2716283355998639227
+      catsaved_26: 7303451424148184298
+      catsaved_27: -4044996430263101750
+      catsaved_28: 1811048052595022819
+      catsaved_29: -2766183204366767569
+      catsaved_3: 8780564481649255387
+      catsaved_30: -4111294554083988795
+      catsaved_31: -590246089399822772
+      catsaved_32: 8537460081670348513
+      catsaved_33: 4761241725058442909
+      catsaved_34: 5985470699821542846
+      catsaved_35: -3997824086958829494
+      catsaved_36: -3574209671824870682
+      catsaved_37: 9129114546119869659
+      catsaved_38: 7738693407214137762
+      catsaved_39: 6767476995140512312
+      catsaved_4: 7192524514268407471
+      catsaved_40: 7122694156329487250
+      catsaved_41: 5314322387438882800
+      catsaved_42: -6861604834026273006
+      catsaved_43: -1328746477278737965
+      catsaved_44: -8203903398724432136
+      catsaved_45: -9185806451165409180
+      catsaved_46: 7936380002768104593
+      catsaved_47: -7628513547742948852
+      catsaved_48: -6264661925508417315
+      catsaved_49: 4808269346942491245
+      catsaved_5: 5238502894024706451
+      catsaved_50: 2294002382359531531
+      catsaved_51: -9138125173711270107
+      catsaved_6: 7883728992093239674
+      catsaved_7: 8019320327122955962
+      catsaved_8: 6766026866860838773
+      catsaved_9: -3035686526006453825
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

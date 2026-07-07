@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 21f97c614e170914590c09a4b33646fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8749406685701314494
+    second: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_0
+  - first:
+      213: 980681571969333362
+    second: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_1
+  - first:
+      213: 545768896686990010
+    second: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_2
+  - first:
+      213: 2740739498048206433
+    second: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_3
+  - first:
+      213: -2795185721654521539
+    second: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_4
+  - first:
+      213: -9038796970741652000
+    second: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_5
+  - first:
+      213: -2727739216446367879
+    second: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_6
+  - first:
+      213: -5739181903196559801
+    second: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_7
+  - first:
+      213: -6827911864699873521
+    second: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_8
+  - first:
+      213: 5840320068118421307
+    second: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_9
+  - first:
+      213: -5425923141960637026
+    second: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_10
+  - first:
+      213: -6229311377293667389
+    second: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_11
+  - first:
+      213: -706885135379511193
+    second: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_12
+  - first:
+      213: -1212503590677394786
+    second: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_13
+  - first:
+      213: -2701678091281910696
+    second: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_14
+  - first:
+      213: 2489908962841399068
+    second: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_15
+  - first:
+      213: 7345528260411102905
+    second: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_16
+  - first:
+      213: -5918197680362396804
+    second: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_17
+  - first:
+      213: 3913608099608800969
+    second: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_18
+  - first:
+      213: -5479170437593724249
+    second: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_19
+  - first:
+      213: 6693051313185526923
+    second: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_20
+  - first:
+      213: 5317855726584868044
+    second: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_21
+  - first:
+      213: -240363208861947505
+    second: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_22
+  - first:
+      213: 1099738316961642161
+    second: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_23
+  - first:
+      213: -8938268719645588053
+    second: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_24
+  - first:
+      213: 845021321071985298
+    second: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_25
+  - first:
+      213: 3863912811960807887
+    second: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_26
+  - first:
+      213: -7369360278070644205
+    second: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_27
+  - first:
+      213: -733316671815483290
+    second: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_28
+  - first:
+      213: 4421397429503303995
+    second: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 953, z: 230, w: 950}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_0
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 987
+        width: 4273
+        height: 45
+      alignment: 9
+      pivot: {x: 7.421373, y: -1.4199219}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb797a836032c6970800000000000000
+      internalID: 8749406685701314494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_1
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 987
+        width: 98
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278f00f91b41c9d00800000000000000
+      internalID: 980681571969333362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_2
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 987
+        width: 98
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab22c708be5f29700800000000000000
+      internalID: 545768896686990010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_3
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 987
+        width: 98
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166bb0b6d00190620800000000000000
+      internalID: 2740739498048206433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_4
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 987
+        width: 98
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31d98b45618539d0800000000000000
+      internalID: -2795185721654521539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_5
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 987
+        width: 98
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e521127b0ebf8280800000000000000
+      internalID: -9038796970741652000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_6
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 987
+        width: 98
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977dfc382af152ad0800000000000000
+      internalID: -2727739216446367879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_7
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 987
+        width: 98
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7466e9e67745a50b0800000000000000
+      internalID: -5739181903196559801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_8
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 987
+        width: 98
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0793eab5526e31a0800000000000000
+      internalID: -6827911864699873521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_9
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 987
+        width: 98
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f98ca982cfc0150800000000000000
+      internalID: 5840320068118421307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_10
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 987
+        width: 98
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e956dd076af33b4b0800000000000000
+      internalID: -5425923141960637026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_11
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 987
+        width: 98
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c39c118e4a0d89a0800000000000000
+      internalID: -6229311377293667389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_12
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 987
+        width: 98
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76843b0f6b3a036f0800000000000000
+      internalID: -706885135379511193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_13
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 987
+        width: 98
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ac9cc88625c2fe0800000000000000
+      internalID: -1212503590677394786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_14
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 987
+        width: 98
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854bfaf0716b18ad0800000000000000
+      internalID: -2701678091281910696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_15
+      rect:
+        serializedVersion: 2
+        x: 2523
+        y: 987
+        width: 98
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f0935720fed8220800000000000000
+      internalID: 2489908962841399068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_16
+      rect:
+        serializedVersion: 2
+        x: 2666
+        y: 987
+        width: 98
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b69569d80f80f560800000000000000
+      internalID: 7345528260411102905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_17
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 987
+        width: 98
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73657fc0965edda0800000000000000
+      internalID: -5918197680362396804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_18
+      rect:
+        serializedVersion: 2
+        x: 2951
+        y: 987
+        width: 98
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce2647d4ddef4630800000000000000
+      internalID: 3913608099608800969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_19
+      rect:
+        serializedVersion: 2
+        x: 3094
+        y: 987
+        width: 98
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa8763548316f3b0800000000000000
+      internalID: -5479170437593724249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_20
+      rect:
+        serializedVersion: 2
+        x: 3237
+        y: 987
+        width: 98
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8492e145be72ec50800000000000000
+      internalID: 6693051313185526923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_21
+      rect:
+        serializedVersion: 2
+        x: 3379
+        y: 987
+        width: 98
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc2eddab91dcc940800000000000000
+      internalID: 5317855726584868044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_22
+      rect:
+        serializedVersion: 2
+        x: 3522
+        y: 987
+        width: 98
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89e5be5fee0aacf0800000000000000
+      internalID: -240363208861947505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_23
+      rect:
+        serializedVersion: 2
+        x: 3665
+        y: 987
+        width: 98
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b672603c2e034f00800000000000000
+      internalID: 1099738316961642161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_24
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 987
+        width: 98
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba50a8ad4f3e4f380800000000000000
+      internalID: -8938268719645588053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_25
+      rect:
+        serializedVersion: 2
+        x: 3950
+        y: 987
+        width: 98
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29280261a6e1abb00800000000000000
+      internalID: 845021321071985298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_26
+      rect:
+        serializedVersion: 2
+        x: 4093
+        y: 987
+        width: 98
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc131080b306f9530800000000000000
+      internalID: 3863912811960807887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_27
+      rect:
+        serializedVersion: 2
+        x: 4236
+        y: 987
+        width: 98
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312b9b32fd5cab990800000000000000
+      internalID: -7369360278070644205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_28
+      rect:
+        serializedVersion: 2
+        x: 4379
+        y: 987
+        width: 98
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660019c4f5cb2d5f0800000000000000
+      internalID: -733316671815483290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_29
+      rect:
+        serializedVersion: 2
+        x: 4521
+        y: 987
+        width: 98
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31ae5c5985fb5d30800000000000000
+      internalID: 4421397429503303995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 72f9c57e9fb53bc459581f7734309810
+    internalID: 449395712
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_0: 8749406685701314494
+      vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_1: 980681571969333362
+      vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_10: -5425923141960637026
+      vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_11: -6229311377293667389
+      vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_12: -706885135379511193
+      vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_13: -1212503590677394786
+      vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_14: -2701678091281910696
+      vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_15: 2489908962841399068
+      vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_16: 7345528260411102905
+      vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_17: -5918197680362396804
+      vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_18: 3913608099608800969
+      vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_19: -5479170437593724249
+      vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_2: 545768896686990010
+      vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_20: 6693051313185526923
+      vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_21: 5317855726584868044
+      vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_22: -240363208861947505
+      vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_23: 1099738316961642161
+      vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_24: -8938268719645588053
+      vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_25: 845021321071985298
+      vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_26: 3863912811960807887
+      vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_27: -7369360278070644205
+      vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_28: -733316671815483290
+      vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_29: 4421397429503303995
+      vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_3: 2740739498048206433
+      vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_4: -2795185721654521539
+      vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_5: -9038796970741652000
+      vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_6: -2727739216446367879
+      vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_7: -5739181903196559801
+      vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_8: -6827911864699873521
+      vecteezy_a-simple-red-dashed-line-graphic-against-a-transparent_71184231_9: 5840320068118421307
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

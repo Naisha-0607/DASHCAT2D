@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: e552c5da9460bd84d9205ae2d9f77b8b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3760819119787287787
+    second: f99bb050-3c10-48b2-aa02-a47a78f4447e_0
+  - first:
+      213: -2174036806814828829
+    second: f99bb050-3c10-48b2-aa02-a47a78f4447e_1
+  - first:
+      213: -1717421860121278802
+    second: f99bb050-3c10-48b2-aa02-a47a78f4447e_2
+  - first:
+      213: 3919290963122549114
+    second: f99bb050-3c10-48b2-aa02-a47a78f4447e_3
+  - first:
+      213: 4580291636633006672
+    second: f99bb050-3c10-48b2-aa02-a47a78f4447e_4
+  - first:
+      213: -1219526942235106624
+    second: f99bb050-3c10-48b2-aa02-a47a78f4447e_5
+  - first:
+      213: -2041042291081336119
+    second: f99bb050-3c10-48b2-aa02-a47a78f4447e_6
+  - first:
+      213: -4280633064853882441
+    second: f99bb050-3c10-48b2-aa02-a47a78f4447e_7
+  - first:
+      213: 6442896932300534519
+    second: f99bb050-3c10-48b2-aa02-a47a78f4447e_8
+  - first:
+      213: 1346309456758180505
+    second: f99bb050-3c10-48b2-aa02-a47a78f4447e_9
+  - first:
+      213: -3011722021138579761
+    second: f99bb050-3c10-48b2-aa02-a47a78f4447e_10
+  - first:
+      213: -482825634578282751
+    second: f99bb050-3c10-48b2-aa02-a47a78f4447e_11
+  - first:
+      213: -4689086594643541183
+    second: f99bb050-3c10-48b2-aa02-a47a78f4447e_12
+  - first:
+      213: 5146145816289848217
+    second: f99bb050-3c10-48b2-aa02-a47a78f4447e_13
+  - first:
+      213: -658909181295184195
+    second: f99bb050-3c10-48b2-aa02-a47a78f4447e_14
+  - first:
+      213: 1100459651237693307
+    second: f99bb050-3c10-48b2-aa02-a47a78f4447e_15
+  - first:
+      213: 477253424660536669
+    second: f99bb050-3c10-48b2-aa02-a47a78f4447e_16
+  - first:
+      213: 5469936922983818823
+    second: f99bb050-3c10-48b2-aa02-a47a78f4447e_17
+  - first:
+      213: 6712762149632462327
+    second: f99bb050-3c10-48b2-aa02-a47a78f4447e_18
+  - first:
+      213: -9142947690534488045
+    second: f99bb050-3c10-48b2-aa02-a47a78f4447e_19
+  - first:
+      213: 7123332907820921290
+    second: f99bb050-3c10-48b2-aa02-a47a78f4447e_20
+  - first:
+      213: 684004576252361755
+    second: f99bb050-3c10-48b2-aa02-a47a78f4447e_21
+  - first:
+      213: 1698445653539366042
+    second: f99bb050-3c10-48b2-aa02-a47a78f4447e_22
+  - first:
+      213: -8433103132073637667
+    second: f99bb050-3c10-48b2-aa02-a47a78f4447e_23
+  - first:
+      213: -6812103820034769595
+    second: f99bb050-3c10-48b2-aa02-a47a78f4447e_24
+  - first:
+      213: 3686146868409516225
+    second: f99bb050-3c10-48b2-aa02-a47a78f4447e_25
+  - first:
+      213: -6772634586631424335
+    second: f99bb050-3c10-48b2-aa02-a47a78f4447e_26
+  - first:
+      213: -1764122644072512670
+    second: f99bb050-3c10-48b2-aa02-a47a78f4447e_27
+  - first:
+      213: 6045035664593088961
+    second: f99bb050-3c10-48b2-aa02-a47a78f4447e_28
+  - first:
+      213: 1957628939243334957
+    second: f99bb050-3c10-48b2-aa02-a47a78f4447e_29
+  - first:
+      213: -341292628199716014
+    second: f99bb050-3c10-48b2-aa02-a47a78f4447e_30
+  - first:
+      213: 414606425514751038
+    second: f99bb050-3c10-48b2-aa02-a47a78f4447e_31
+  - first:
+      213: 7355689672879123371
+    second: f99bb050-3c10-48b2-aa02-a47a78f4447e_32
+  - first:
+      213: -6551756233953957638
+    second: f99bb050-3c10-48b2-aa02-a47a78f4447e_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UFO_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 528
+        width: 297
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be42b63501d113430800000000000000
+      internalID: 3760819119787287787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_4
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 530
+        width: 344
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f23a3ebf94c96950800000000000000
+      internalID: 6442896932300534519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_2
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 540
+        width: 282
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce30df47c63436d0800000000000000
+      internalID: -3011722021138579761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_3
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 511
+        width: 325
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107428ab4a8ac49f0800000000000000
+      internalID: -482825634578282751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_6
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 228
+        width: 326
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b774ca9e83e954f00800000000000000
+      internalID: 1100459651237693307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_8
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 224
+        width: 335
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac13483e9892bd260800000000000000
+      internalID: 7123332907820921290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 219
+        width: 312
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0c779fb03d72330800000000000000
+      internalID: 3686146868409516225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ufo_7
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 212
+        width: 317
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2daf95f525ea2b10800000000000000
+      internalID: 1957628939243334957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bdab67012032d794bbf2b71da566ee67
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UFO_1: 3760819119787287787
+      f99bb050-3c10-48b2-aa02-a47a78f4447e_1: -2174036806814828829
+      f99bb050-3c10-48b2-aa02-a47a78f4447e_12: -4689086594643541183
+      f99bb050-3c10-48b2-aa02-a47a78f4447e_13: 5146145816289848217
+      f99bb050-3c10-48b2-aa02-a47a78f4447e_14: -658909181295184195
+      f99bb050-3c10-48b2-aa02-a47a78f4447e_16: 477253424660536669
+      f99bb050-3c10-48b2-aa02-a47a78f4447e_17: 5469936922983818823
+      f99bb050-3c10-48b2-aa02-a47a78f4447e_18: 6712762149632462327
+      f99bb050-3c10-48b2-aa02-a47a78f4447e_19: -9142947690534488045
+      f99bb050-3c10-48b2-aa02-a47a78f4447e_2: -1717421860121278802
+      f99bb050-3c10-48b2-aa02-a47a78f4447e_21: 684004576252361755
+      f99bb050-3c10-48b2-aa02-a47a78f4447e_22: 1698445653539366042
+      f99bb050-3c10-48b2-aa02-a47a78f4447e_23: -8433103132073637667
+      f99bb050-3c10-48b2-aa02-a47a78f4447e_24: -6812103820034769595
+      f99bb050-3c10-48b2-aa02-a47a78f4447e_26: -6772634586631424335
+      f99bb050-3c10-48b2-aa02-a47a78f4447e_27: -1764122644072512670
+      f99bb050-3c10-48b2-aa02-a47a78f4447e_28: 6045035664593088961
+      f99bb050-3c10-48b2-aa02-a47a78f4447e_3: 3919290963122549114
+      f99bb050-3c10-48b2-aa02-a47a78f4447e_30: -341292628199716014
+      f99bb050-3c10-48b2-aa02-a47a78f4447e_31: 414606425514751038
+      f99bb050-3c10-48b2-aa02-a47a78f4447e_32: 7355689672879123371
+      f99bb050-3c10-48b2-aa02-a47a78f4447e_33: -6551756233953957638
+      f99bb050-3c10-48b2-aa02-a47a78f4447e_4: 4580291636633006672
+      f99bb050-3c10-48b2-aa02-a47a78f4447e_5: -1219526942235106624
+      f99bb050-3c10-48b2-aa02-a47a78f4447e_6: -2041042291081336119
+      f99bb050-3c10-48b2-aa02-a47a78f4447e_7: -4280633064853882441
+      f99bb050-3c10-48b2-aa02-a47a78f4447e_9: 1346309456758180505
+      ufo_2: -3011722021138579761
+      ufo_3: -482825634578282751
+      ufo_4: 6442896932300534519
+      ufo_5: 3686146868409516225
+      ufo_6: 1100459651237693307
+      ufo_7: 1957628939243334957
+      ufo_8: 7123332907820921290
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

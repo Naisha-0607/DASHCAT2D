@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: 1e848580aedc8554d9365635132b6d59
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2790296035472665279
+    second: finishlinept2_0
+  - first:
+      213: 5318621896863190109
+    second: finishlinept2_1
+  - first:
+      213: -4104984589762618825
+    second: finishlinept2_2
+  - first:
+      213: -6714684586569904248
+    second: finishlinept2_3
+  - first:
+      213: 7281355176158024326
+    second: finishlinept2_4
+  - first:
+      213: -1999260258647781984
+    second: finishlinept2_5
+  - first:
+      213: -7209800279455185415
+    second: finishlinept2_6
+  - first:
+      213: -4561075317030114833
+    second: finishlinept2_7
+  - first:
+      213: 1084102947038786043
+    second: finishlinept2_8
+  - first:
+      213: -3550701415811314439
+    second: finishlinept2_9
+  - first:
+      213: 6471488495302507224
+    second: finishlinept2_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: finishlinept2_0
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 13
+        width: 876
+        height: 1465
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 164, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba678ce57f19b620800000000000000
+      internalID: 2790296035472665279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7a3834f4c8606bd44aa85a684c0c4f55
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      finishlinept2_0: 2790296035472665279
+      finishlinept2_1: 5318621896863190109
+      finishlinept2_10: 6471488495302507224
+      finishlinept2_2: -4104984589762618825
+      finishlinept2_3: -6714684586569904248
+      finishlinept2_4: 7281355176158024326
+      finishlinept2_5: -1999260258647781984
+      finishlinept2_6: -7209800279455185415
+      finishlinept2_7: -4561075317030114833
+      finishlinept2_8: 1084102947038786043
+      finishlinept2_9: -3550701415811314439
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

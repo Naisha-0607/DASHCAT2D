@@ -1,0 +1,617 @@
+fileFormatVersion: 2
+guid: a86af0b94c413a04b9794042fb48a693
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1249656366653653861
+    second: buttonslevels_0
+  - first:
+      213: 5625408900156336258
+    second: buttonslevels_1
+  - first:
+      213: 102679750173920752
+    second: buttonslevels_2
+  - first:
+      213: -6825823765576488470
+    second: buttonslevels_3
+  - first:
+      213: 1403050354317826467
+    second: buttonslevels_4
+  - first:
+      213: -5072417261618526783
+    second: buttonslevels_5
+  - first:
+      213: 1044643958324398215
+    second: buttonslevels_6
+  - first:
+      213: -8341832915317398171
+    second: buttonslevels_7
+  - first:
+      213: 7497965965164046002
+    second: buttonslevels_8
+  - first:
+      213: 3284698181277944734
+    second: buttonslevels_9
+  - first:
+      213: -3450274366493327403
+    second: buttonslevels_10
+  - first:
+      213: -6784942401956657337
+    second: buttonslevels_11
+  - first:
+      213: 1910827441880528741
+    second: buttonslevels_12
+  - first:
+      213: -7542958267539631319
+    second: buttonslevels_13
+  - first:
+      213: 2095187728790990710
+    second: buttonslevels_14
+  - first:
+      213: 6351298210309620889
+    second: buttonslevels_15
+  - first:
+      213: -78420746183295213
+    second: buttonslevels_16
+  - first:
+      213: -6904401124272336120
+    second: buttonslevels_17
+  - first:
+      213: 1411038969890821304
+    second: buttonslevels_18
+  - first:
+      213: -3697969646384652542
+    second: buttonslevels_19
+  - first:
+      213: -5015486302158131701
+    second: buttonslevels_20
+  - first:
+      213: 5881733084359826150
+    second: buttonslevels_21
+  - first:
+      213: 654831303311807985
+    second: buttonslevels_22
+  - first:
+      213: 9126126124976743237
+    second: buttonslevels_23
+  - first:
+      213: -3401323152369052807
+    second: buttonslevels_24
+  - first:
+      213: 2914865067219668621
+    second: buttonslevels_25
+  - first:
+      213: 4598644137996024891
+    second: buttonslevels_26
+  - first:
+      213: 6082486218174347889
+    second: buttonslevels_27
+  - first:
+      213: 4199208886339925668
+    second: buttonslevels_28
+  - first:
+      213: 4434286488702924914
+    second: buttonslevels_29
+  - first:
+      213: -2342568808263255989
+    second: buttonslevels_30
+  - first:
+      213: 586762346586893165
+    second: buttonslevels_31
+  - first:
+      213: -7362549751096250730
+    second: buttonslevels_32
+  - first:
+      213: -4549516840869647853
+    second: buttonslevels_33
+  - first:
+      213: -4471041378538618307
+    second: buttonslevels_34
+  - first:
+      213: -8028578778187541562
+    second: buttonslevels_35
+  - first:
+      213: -2893002361701574495
+    second: buttonslevels_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: buttonslevels_0
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 729
+        width: 218
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9cbd4ec72458aee0800000000000000
+      internalID: -1249656366653653861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonslevels_1
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 735
+        width: 226
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288a32a0797711e40800000000000000
+      internalID: 5625408900156336258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonslevels_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 727
+        width: 237
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd0eb250bacc6100800000000000000
+      internalID: 102679750173920752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonslevels_3
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 734
+        width: 221
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9e461337dc541a0800000000000000
+      internalID: -6825823765576488470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonslevels_15
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 735
+        width: 219
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99444185218542850800000000000000
+      internalID: 6351298210309620889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonslevels_25
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 719
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ec2d3c55ea37820800000000000000
+      internalID: 2914865067219668621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonslevels_27
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 490
+        width: 246
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17abd713df4596450800000000000000
+      internalID: 6082486218174347889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonslevels_28
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 487
+        width: 222
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a674f7db36964a30800000000000000
+      internalID: 4199208886339925668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonslevels_29
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 491
+        width: 230
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278b37f4110c98d30800000000000000
+      internalID: 4434286488702924914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonslevels_30
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 488
+        width: 210
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48fe8194168d7fd0800000000000000
+      internalID: -2342568808263255989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonslevels_31
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 498
+        width: 217
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6be2e3de39942800800000000000000
+      internalID: 586762346586893165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonslevels_32
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 248
+        width: 242
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e64c48208f2d990800000000000000
+      internalID: -7362549751096250730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonslevels_33
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 252
+        width: 217
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31aae40a98edcd0c0800000000000000
+      internalID: -4549516840869647853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonslevels_34
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 251
+        width: 217
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3202280e8ba3f1c0800000000000000
+      internalID: -4471041378538618307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonslevels_35
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 256
+        width: 207
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c354e27322c49090800000000000000
+      internalID: -8028578778187541562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonslevels_36
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 252
+        width: 215
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a859680eadf9d7d0800000000000000
+      internalID: -2893002361701574495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f4b158e874ec5604eb79d1d150f13b90
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      buttonslevels_0: -1249656366653653861
+      buttonslevels_1: 5625408900156336258
+      buttonslevels_10: -3450274366493327403
+      buttonslevels_11: -6784942401956657337
+      buttonslevels_12: 1910827441880528741
+      buttonslevels_13: -7542958267539631319
+      buttonslevels_14: 2095187728790990710
+      buttonslevels_15: 6351298210309620889
+      buttonslevels_16: -78420746183295213
+      buttonslevels_17: -6904401124272336120
+      buttonslevels_18: 1411038969890821304
+      buttonslevels_19: -3697969646384652542
+      buttonslevels_2: 102679750173920752
+      buttonslevels_20: -5015486302158131701
+      buttonslevels_21: 5881733084359826150
+      buttonslevels_22: 654831303311807985
+      buttonslevels_23: 9126126124976743237
+      buttonslevels_24: -3401323152369052807
+      buttonslevels_25: 2914865067219668621
+      buttonslevels_26: 4598644137996024891
+      buttonslevels_27: 6082486218174347889
+      buttonslevels_28: 4199208886339925668
+      buttonslevels_29: 4434286488702924914
+      buttonslevels_3: -6825823765576488470
+      buttonslevels_30: -2342568808263255989
+      buttonslevels_31: 586762346586893165
+      buttonslevels_32: -7362549751096250730
+      buttonslevels_33: -4549516840869647853
+      buttonslevels_34: -4471041378538618307
+      buttonslevels_35: -8028578778187541562
+      buttonslevels_36: -2893002361701574495
+      buttonslevels_4: 1403050354317826467
+      buttonslevels_5: -5072417261618526783
+      buttonslevels_6: 1044643958324398215
+      buttonslevels_7: -8341832915317398171
+      buttonslevels_8: 7497965965164046002
+      buttonslevels_9: 3284698181277944734
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

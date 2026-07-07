@@ -1,0 +1,279 @@
+fileFormatVersion: 2
+guid: 0b3df58089accd04eb4bb76ae4ae073d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2232516058619342711
+    second: newdressunlockedshit_0
+  - first:
+      213: -7234523209115360022
+    second: newdressunlockedshit_1
+  - first:
+      213: -7785662480972715719
+    second: newdressunlockedshit_2
+  - first:
+      213: 2876614610559255848
+    second: newdressunlockedshit_3
+  - first:
+      213: 5006814102006283362
+    second: newdressunlockedshit_4
+  - first:
+      213: -5864152069605868316
+    second: newdressunlockedshit_5
+  - first:
+      213: -6917328344261183643
+    second: newdressunlockedshit_6
+  - first:
+      213: 8445513820279006079
+    second: newdressunlockedshit_7
+  - first:
+      213: 4344770020870912242
+    second: newdressunlockedshit_8
+  - first:
+      213: 8152073462917007742
+    second: newdressunlockedshit_9
+  - first:
+      213: -8692007779441017003
+    second: newdressunlockedshit_10
+  - first:
+      213: -906447100579735538
+    second: newdressunlockedshit_11
+  - first:
+      213: 3943832207154600407
+    second: newdressunlockedshit_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: newdressunlockedshit_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 701
+        width: 1478
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98093aa19728401e0800000000000000
+      internalID: -2232516058619342711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newdressunlockedshit_5
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 707
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec354623c85e9ea0800000000000000
+      internalID: -5864152069605868316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newdressunlockedshit_6
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 386
+        width: 1353
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567329d3586b000a0800000000000000
+      internalID: -6917328344261183643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newdressunlockedshit_7
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 669
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73e163c21e743570800000000000000
+      internalID: 8445513820279006079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newdressunlockedshit_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 26
+        width: 1421
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8f6cc7059bb4c30800000000000000
+      internalID: 4344770020870912242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8d2dc394477b5ca44a4d88f2e278b281
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      newdressunlockedshit_0: -2232516058619342711
+      newdressunlockedshit_1: -7234523209115360022
+      newdressunlockedshit_10: -8692007779441017003
+      newdressunlockedshit_11: -906447100579735538
+      newdressunlockedshit_12: 3943832207154600407
+      newdressunlockedshit_2: -7785662480972715719
+      newdressunlockedshit_3: 2876614610559255848
+      newdressunlockedshit_4: 5006814102006283362
+      newdressunlockedshit_5: -5864152069605868316
+      newdressunlockedshit_6: -6917328344261183643
+      newdressunlockedshit_7: 8445513820279006079
+      newdressunlockedshit_8: 4344770020870912242
+      newdressunlockedshit_9: 8152073462917007742
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
